@@ -1,0 +1,10 @@
+Crossplane
+Env
+kubeconfig
+namespace
+namespaces
+semver
+stdin
+stdout
+tolerations
+Upbound
