@@ -4,6 +4,7 @@ kubeconfig
 namespace
 namespaces
 semver
+shortcode
 stdin
 stdout
 tolerations
