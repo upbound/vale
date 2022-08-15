@@ -14,6 +14,7 @@ exceptions:
   - Docker
   - Emmet
   - gRPC
+  - Hugo
   - I
   - imagePullSecret
   - Kubernetes
