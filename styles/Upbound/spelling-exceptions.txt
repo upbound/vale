@@ -5,6 +5,7 @@ namespace
 namespaces
 semver
 shortcode
+shortcodes
 stdin
 stdout
 tolerations
