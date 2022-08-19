@@ -9,13 +9,16 @@ indicators:
 exceptions:
   - Azure
   - Code
+  - ControllerConfig
   - Cosmos
+  - Create a Provider
   - Crossplane
   - Docker
   - Emmet
   - gRPC
   - Hugo
   - I
+  - IAM Roles for Service Accounts
   - imagePullSecret
   - Kubernetes
   - Linux
@@ -32,7 +35,7 @@ exceptions:
   - Upbound
   - Upbound Cloud
   - URLs
+  - Vale
   - Visual
   - VS
   - Windows
-  - Vale

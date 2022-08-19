@@ -9,5 +9,6 @@ exceptions:
   - API
   - AWS
   - GCP
+  - IAM
   - JSON
   - Up

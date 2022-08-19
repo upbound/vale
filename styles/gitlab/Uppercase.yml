@@ -95,6 +95,7 @@ exceptions:
   - IMAP
   - IOPS
   - IRC
+  - IRSA
   - ISO
   - JPEG
   - JPG
@@ -119,6 +120,7 @@ exceptions:
   - NOTE
   - NPM
   - NTP
+  - OIDC
   - ONLY
   - OSS
   - OTP
@@ -202,6 +204,7 @@ exceptions:
   - UTC
   - UTF
   - UUID
+  - UXP
   - VCS
   - VPC
   - VPN
@@ -209,10 +212,9 @@ exceptions:
   - WIP
   - WSL
   - XML
+  - XPKG
   - XRD
   - XSS
   - YAML
   - ZAP
   - ZIP
-  - UXP
-  - XPKG

@@ -1,3 +1,5 @@
+APIs
+CRDs
 Crossplane
 Env
 kubeconfig
