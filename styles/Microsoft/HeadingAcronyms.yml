@@ -11,4 +11,5 @@ exceptions:
   - GCP
   - IAM
   - JSON
+  - RPM
   - Up
