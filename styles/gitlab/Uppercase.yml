@@ -16,6 +16,7 @@ second: '(?:\b[A-Z][a-z]+ )+\(([A-Z]{3,5})\)'
 exceptions:
   - ACL
   - AJAX
+  - AKS
   - ANSI
   - API
   - APM
@@ -133,6 +134,7 @@ exceptions:
   - PGP
   - PHP
   - PID
+  - PIN
   - PKCS
   - PNG
   - POSIX
