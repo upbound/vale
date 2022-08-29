@@ -1,8 +1,10 @@
 APIs
+conformant
 CRDs
 Crossplane
 Env
 kubeconfig
+kubectl
 namespace
 namespaces
 semver
@@ -12,4 +14,5 @@ stdin
 stdout
 tolerations
 Upbound
+Upbound's
 Zendesk
