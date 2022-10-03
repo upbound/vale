@@ -1,30 +1,66 @@
+# Includes terms from https://github.com/dmpop/technically/blob/main/CorporateSpeak.yml
 extends: existence
 message: "'%s' is corporate speak."
 ignorecase: true
 level: error
 tokens:
+  - all hands on deck
+  - apples to apples
   - at the end of the day
   - back to the drawing board
-  - hit the ground running
-  - get the ball rolling
-  - low-hanging fruit
-  - thrown under the bus
-  - think outside the box
-  - let's touch base
-  - get my manager's blessing
-  - it's on my radar
-  - ping me
-  - i don't have the bandwidth
-  - no brainer
-  - par for the course
+  - ballpark
   - bang for your buck
-  - synergy
-  - move the goal post
-  - apples to apples
-  - win-win
+  - best-in-class
+  - blue sky thinking
+  - buy(?:in|-in)
   - circle back around
-  - all hands on deck
-  - take this offline
+  - cross-functional
+  - cross-functional alignment
+  - customer obsession
+  - customer-centric
+  - data-driven
+  - digital transformation
   - drill-down
+  - driver for success
   - elephant in the room
+  - fly it up the flag pole
+  - get my manager's blessing
+  - get the ball rolling
+  - going forward
+  - growth mindset
+  - have the bandwidth
+  - hit the ground running
+  - i don't have the bandwidth
+  - it's on my radar
+  - journey
+  - let's touch base
+  - level up
+  - lever(?:s)
+  - leverage
+  - low-hanging fruit
+  - momentum
+  - move the goal post
+  - move the needle
+  - no brainer
+  - north star
   - on my plate
+  - operational excellence
+  - par for the course
+  - parking lot (?:this|it)
+  - ping me
+  - right to win
+  - stakeholder
+  - strategic fit
+  - sunsetting
+  - synerg(?:y|ies)
+  - synergy
+  - table (?:this|it)
+  - take this offline
+  - take-away
+  - think outside the box
+  - thought leader(?:s|ship)
+  - thrown under the bus
+  - touch base
+  - unicorn
+  - verticals
+  - win-win
