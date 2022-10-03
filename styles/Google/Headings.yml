@@ -25,6 +25,7 @@ exceptions:
   - macOS
   - Marketplace
   - MongoDB
+  - Organization
   - ProviderConfig
   - REPL
   - Studio
