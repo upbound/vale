@@ -121,6 +121,7 @@ exceptions:
   - NOTE
   - NPM
   - NTP
+  - OCI
   - OIDC
   - ONLY
   - OSS
