@@ -1,3 +1,5 @@
 Upbound marketplace
 Marketplace
 marketplace.upbound.io
+Up CLI
+Upbound CLI

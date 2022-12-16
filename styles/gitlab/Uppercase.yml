@@ -32,6 +32,7 @@ exceptions:
   - CLI
   - CNA
   - CNAME
+  - CNCF
   - CORE
   - CPU
   - CRD

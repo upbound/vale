@@ -9,23 +9,32 @@ indicators:
 exceptions:
   - Azure
   - Code
+  - Composite Resource
+  - Composite Resources
+  - Composite Resource Definition
+  - Composite Resource Definitions
+  - Composition
   - ControllerConfig
   - Cosmos
   - Create a Provider
   - Crossplane
+  - DNS
   - Docker
   - Emmet
   - gRPC
+  - Helm
   - Hugo
   - I
   - IAM Roles for Service Accounts
   - imagePullSecret
+  - JavaScript
   - Kubernetes
   - Linux
   - macOS
   - Marketplace
   - MongoDB
   - Organization
+  - Provider
   - ProviderConfig
   - REPL
   - Studio

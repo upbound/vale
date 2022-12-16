@@ -1,3 +1,4 @@
 upbound
 marketplace
 upbound marketplace
+cli

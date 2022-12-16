@@ -8,8 +8,10 @@ tokens:
 exceptions:
   - API
   - AWS
+  - CSS
   - GCP
   - IAM
   - JSON
   - RPM
+  - SCSS
   - Up
