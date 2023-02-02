@@ -3,7 +3,9 @@ conformant
 Bootstrap
 CRDs
 Crossplane
+editCode
 Env
+GCP's
 Geekdocs
 Grammarly
 kubeconfig
@@ -23,5 +25,8 @@ Upbound
 Upbound's
 Webpack
 xpkg
+XRD
+XRDs
+XRD's
 XRs
 Zendesk

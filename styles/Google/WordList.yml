@@ -33,6 +33,7 @@ swap:
   authN: authentication
   authZ: authorization
   autoupdate: automatically update
+  below: following
   cellular data: mobile data
   cellular network: mobile network
   chapter: documents|pages|sections

@@ -20,6 +20,7 @@ exceptions:
   - Crossplane
   - DNS
   - Docker
+  - DynamoDB
   - Emmet
   - gRPC
   - Helm
@@ -31,9 +32,11 @@ exceptions:
   - Kubernetes
   - Linux
   - macOS
+  - Managed Resources
   - Marketplace
   - MongoDB
   - Organization
+  - Pod
   - Provider
   - ProviderConfig
   - REPL
