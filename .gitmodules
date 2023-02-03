@@ -4,3 +4,6 @@
 [submodule ".submodules/google"]
 	path = .submodules/google
 	url = https://github.com/errata-ai/google.git
+[submodule ".submodules/Microsoft"]
+	path = .submodules/Microsoft
+	url = https://github.com/errata-ai/Microsoft.git
