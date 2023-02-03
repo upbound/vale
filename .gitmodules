@@ -10,3 +10,6 @@
 [submodule ".submodules/proselint"]
 	path = .submodules/proselint
 	url = https://github.com/errata-ai/proselint.git
+[submodule ".submodules/write-good"]
+	path = .submodules/write-good
+	url = https://github.com/errata-ai/write-good.git
