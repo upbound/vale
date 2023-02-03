@@ -1,0 +1,3 @@
+[submodule ".submodules/alex"]
+	path = .submodules/alex
+	url = https://github.com/errata-ai/alex.git
